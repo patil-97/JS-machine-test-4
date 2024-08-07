@@ -21,7 +21,7 @@ let movieArr = [
     "title": "Pulp Fiction",
     "overview": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
     "rating": 7.9,
-    "image_link": "https://image.tmdb.org/t/p/w500/dM2w364MScsjFf8pfMbaWUcWrR.jpg"
+    "image_link": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
   },
   {
     "title": "Schindler's List",
@@ -105,7 +105,7 @@ let movieArr = [
     "title": "Saving Private Ryan",
     "overview": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
     "rating": 8.6,
-    "image_link": "https://image.tmdb.org/t/p/w500/hcGZbK59VNzd4Zip9PAvJuVNmB.jpg"
+    "image_link": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
   },
   {
     "title": "Interstellar",
@@ -123,7 +123,7 @@ let movieArr = [
     "title": "Parasite",
     "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
     "rating": 8.6,
-    "image_link": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymC"
+    "image_link": "https://image.tmdb.org/t/p/w500/a26cQPRhJPX6GbWfQbvZdrrp9j9.jpg"
   }
 
 ];
