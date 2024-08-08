@@ -48,6 +48,7 @@ span{
 	background-color:#fff;
 	transform:rotateY(180deg);
 	backface-visibility:hidden;
+	text-align:center;
 }
 
 .box2{
